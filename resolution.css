@@ -1,0 +1,10 @@
+@media screen and (max-width: 720px) {
+    #search-result {
+      display: flex;
+      flex-direction: column;
+    }
+    #search-result img {
+        width: 100%;
+    }
+  }
+  
